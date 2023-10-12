@@ -18,5 +18,5 @@ We're diciding to start this mentorship just for trace our productivity to help 
 
 
 # remember 
-<!-- You've created to leave an influence   -->
-<!-- Cofa -->
+You've created to leave an influence 
+- Cofa
